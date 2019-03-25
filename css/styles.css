@@ -23,7 +23,6 @@ h2{
 }
 
 
-
 #title{
   background-color: #ff4c68;
   color:#fff;
@@ -153,6 +152,18 @@ h2{
 
 .pricing-column{
   padding: 3% 2%;
+}
+
+@media (max-width:880px){
+  .big-heading{
+    font-size: 2rem;
+    line-height: 1.5;
+    padding : 0 1rem 0 0;
+  }
+
+  .navbar-brand{
+    font-size: 1.5rem;
+  }
 }
 
 @media (max-width:1028px){
