@@ -154,17 +154,7 @@ h2{
   padding: 3% 2%;
 }
 
-@media (max-width:880px){
-  .big-heading{
-    font-size: 2rem;
-    line-height: 1.5;
-    padding : 0 1rem 0 0;
-  }
 
-  .navbar-brand{
-    font-size: 1.5rem;
-  }
-}
 
 @media (max-width:1028px){
 
@@ -211,4 +201,25 @@ font-size: 1rem;
 
 .footer-icon{
   margin:2% 1%;
+}
+
+@media (max-width:880px){
+  .big-heading{
+    font-size: 2rem;
+    line-height: 1.5;
+    padding : 0 1rem 0 0;
+  }
+
+  .navbar-brand{
+    font-size: 1.5rem;
+  }
+
+  h2{
+    font-size: 1.75rem;
+    line-height: 1.5;
+  }
+
+  .cta-header{
+    font-size: 1.25rem;
+  }
 }
