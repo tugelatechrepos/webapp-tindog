@@ -17,10 +17,11 @@ h2{
 .big-heading{
   font-family: 'Montserrat';
   font-weight: bold;
-  font-size: 3rem;
+  font-size: 3.5rem;
   line-height: 1.5;
-  padding : 0 1rem;
+  padding : 0 1rem 0 0;
 }
+
 
 
 #title{
